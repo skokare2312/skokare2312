@@ -1,5 +1,4 @@
-Hi there, I'm Sachin Kokare
- I am Cloud Solution Architect Community Addict and proven track record in maintaining and administering DevOps process.
+Cloud Solution Architect with 8+ Years experience in Public clouds like AWS, Azure  GCP  and proven track record in maintaining and administering DevOps process
 
 Languages and Tools:
 
